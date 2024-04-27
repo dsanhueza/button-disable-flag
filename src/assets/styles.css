@@ -1,0 +1,10 @@
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.fetch-button {
+  width: 200px;
+  height: 60px;
+}
